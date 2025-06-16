@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="pizzaria.admin" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Pizzaria bruno</name>
+    <description>App de administração da Pizzaria bruno</description>
+    <author email="contato@pizzariabruno.com">Pizzaria bruno</author>
+    <content src="index.html"/>
+    <access origin="*"/>
+    <preference name="Orientation" value="portrait"/>
+</widget>
